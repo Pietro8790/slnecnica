@@ -1,0 +1,2 @@
+# slnecnica
+training repository
